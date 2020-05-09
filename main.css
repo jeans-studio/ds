@@ -1,0 +1,16 @@
+/*
+FETON.ME
+MAIN.CSS
+*/
+
+body {width: 100vw;height: 100vh; color: #fff; font-family:'Cormorant Garamond','Nanum Myeongjo',serif; background:url("images/bg.jpeg"); background-repeat: no-repeat; background-size: cover; }
+
+header {padding: 2rem; }
+header h1 {font-size: 4rem; font-weight: 600; margin: 0 0 2rem 0;}
+header h2 {font-size: 2rem; font-weight: 400; line-height: 1.4; margin: 0 0 2rem 0;}
+header a {font-size: 1.5rem; padding: 1.5rem 2rem; margin: 0 0 1rem 0; background: #ffffff30; color: #fff; backdrop-filter:blur(40px); border-radius: 4rem; display: inline-block; transition: all .5s;}
+header a:first-of-type {margin-right: 1rem;}
+header a:hover {background: #B9B4AD; }
+
+footer {position: absolute; bottom: 0; padding: 2rem; }
+footer a {color: #ffffff60;}
